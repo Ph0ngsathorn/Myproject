@@ -1,0 +1,23 @@
+body {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16 pt;
+    background-color: papayawhip;
+    /*background-image: url(photo/) */
+}
+table {
+    background-color: cornsilk;
+    color: brown;
+}
+th{
+    background-color: brown;
+    color: azure;
+}
+h3{
+    color: beige;
+    font-size: 16 pt;
+}
+a :link{color:aqua; text-decoration: none; }
+a :visited{color: blueviolet; text-decoration: none;}
+a :active{color: chartreuse; text-decoration: none;}
+a :hover{color: darkcyan; text-decoration: nane;}
